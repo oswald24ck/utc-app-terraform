@@ -1,7 +1,5 @@
 # utc-app-terraform
 
-# utc-app-terraform
-
 # Secure AWS 3-Tier Web Architecture with Terraform
 
 This repository provisions a highly available, secure, and auto-scaling 3-Tier infrastructure on AWS using modular Terraform.
